@@ -1,0 +1,38 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon (TM) R7 M445 (ID=0x6900)
+    Vendor:   ATI
+    VRAM:     2038 MB
+    Driver:   26.20.15026.1
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Dhruv\Game Dev\Box shooter\Box Shooter\Builds\Windows\BoxShooter3D_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Dhruv\Game Dev\Box shooter\Box Shooter\Builds\Windows\BoxShooter3D_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Dhruv\Game Dev\Box shooter\Box Shooter\Builds\Windows\BoxShooter3D_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Dhruv\Game Dev\Box shooter\Box Shooter\Builds\Windows\BoxShooter3D_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Dhruv\Game Dev\Box shooter\Box Shooter\Builds\Windows\BoxShooter3D_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Dhruv\Game Dev\Box shooter\Box Shooter\Builds\Windows\BoxShooter3D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Dhruv\Game Dev\Box shooter\Box Shooter\Builds\Windows\BoxShooter3D_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Dhruv\Game Dev\Box shooter\Box Shooter\Builds\Windows\BoxShooter3D_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Dhruv\Game Dev\Box shooter\Box Shooter\Builds\Windows\BoxShooter3D_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Dhruv\Game Dev\Box shooter\Box Shooter\Builds\Windows\BoxShooter3D_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Dhruv\Game Dev\Box shooter\Box Shooter\Builds\Windows\BoxShooter3D_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Dhruv\Game Dev\Box shooter\Box Shooter\Builds\Windows\BoxShooter3D_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.310 seconds
+Platform assembly: E:\Dhruv\Game Dev\Box shooter\Box Shooter\Builds\Windows\BoxShooter3D_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Dhruv\Game Dev\Box shooter\Box Shooter\Builds\Windows\BoxShooter3D_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.433800 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 39a8 -> priority: 1 
+  Thread -> id: 1d14 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.721400 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 589.
+Total: 0.327700 ms (FindLiveObjects: 0.038500 ms CreateObjectMapping: 0.027900 ms MarkObjects: 0.254800 ms  DeleteObjects: 0.005900 ms)
+
